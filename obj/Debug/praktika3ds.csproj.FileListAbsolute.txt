@@ -1,0 +1,15 @@
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\bin\Debug\praktika3ds.exe.config
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\bin\Debug\praktika3ds.exe
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\bin\Debug\praktika3ds.pdb
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds.csproj.AssemblyReference.cache
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\MainWindow.g.cs
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\App.g.cs
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds_MarkupCompile.cache
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds_MarkupCompile.lref
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\MainWindow.baml
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds.g.resources
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds.Properties.Resources.resources
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds.csproj.GenerateResource.cache
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds.exe
+C:\Users\Тимофей\source\repos\praktika3ds\praktika3ds\obj\Debug\praktika3ds.pdb
